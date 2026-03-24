@@ -53,8 +53,11 @@ src/
     AdminContactsCard  – admin contacts list (compact) or cards (verbose)
     RegistryObjectCard – NSSet / KeySet display
     DomainSidebar      – right-column cards (owner, contacts, nsset, keyset)
+    __tests__/
+      setup.js         – shared test helpers (Vuetify instance, mount options)
+      jest.setup.js    – jsdom polyfills (ResizeObserver)
+      *.spec.js        – component tests (8 suites, 23 tests)
 public/
   domain-detail.json   – sample domain data
 ```
-# CZ.NIC-ukol
 
