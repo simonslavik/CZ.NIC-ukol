@@ -56,4 +56,5 @@ src/
 public/
   domain-detail.json   – sample domain data
 ```
-# CZ.NIC---kol-
+# CZ.NIC-ukol
+
